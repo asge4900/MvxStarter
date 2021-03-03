@@ -1,0 +1,8 @@
+C:\Users\asge4900\Git\Source\Repos\MvxStarter\MvxStarter.Core\bin\Debug\netstandard2.0\MvxStarter.Core.deps.json
+C:\Users\asge4900\Git\Source\Repos\MvxStarter\MvxStarter.Core\bin\Debug\netstandard2.0\MvxStarter.Core.dll
+C:\Users\asge4900\Git\Source\Repos\MvxStarter\MvxStarter.Core\bin\Debug\netstandard2.0\MvxStarter.Core.pdb
+C:\Users\asge4900\Git\Source\Repos\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.AssemblyInfoInputs.cache
+C:\Users\asge4900\Git\Source\Repos\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.AssemblyInfo.cs
+C:\Users\asge4900\Git\Source\Repos\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.csproj.CoreCompileInputs.cache
+C:\Users\asge4900\Git\Source\Repos\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.dll
+C:\Users\asge4900\Git\Source\Repos\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.pdb

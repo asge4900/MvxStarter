@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXuXpl+PUwFLAxlggI69RWXPwoypxDqZrMkcDzzHjtzqbLjJHgDOswYFfKopnSPXV/tJZWT2ebCZgGkhCTmyLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asge4900\\Git\\Source\\Repos\\MvxStarter\\MvxStarter.Wpf\\MvxStarter.Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asge4900\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512",
+    "C:\\Users\\asge4900\\.nuget\\packages\\mvvmcross.platforms.wpf\\7.1.2\\mvvmcross.platforms.wpf.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
